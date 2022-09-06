@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ShawnSchaerer
 - 👀 I’m interested in Autonomous Vehicles and Robotics.  Specifically Systems Engineer, Perception and Functional Safety 
-- 🌱 I’m currently learning AI / ML Functional Safety for perception and computer vision systems
+- 🌱 I’m currently learning AI / ML Functional Safety for perception and computer vision systems.
+- Drop me a line if you want to chat about robotics, safety or anything CV / AI related.
 
 
 <!---
